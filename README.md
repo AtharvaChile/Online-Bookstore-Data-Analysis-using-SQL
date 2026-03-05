@@ -1,1 +1,73 @@
 # Online-Bookstore-Data-Analysis-using-SQL
+## 📌 Project Overview
+
+This project focuses on analyzing an Online Bookstore dataset using SQL to derive meaningful business insights. The analysis helps understand customer purchasing behavior, popular books, revenue trends, and order patterns.
+
+The project demonstrates practical use of SQL for real-world data analysis, including joins, aggregations, and business KPI calculations.
+
+## 📂 Dataset Files
+
+The project consists of the following datasets:
+
+File Name	Description
+Books.csv	Contains information about books such as title, author, price, and category
+Customers.csv	Contains customer details
+Orders.csv	Contains order transactions and purchase details
+OnlineBookStoreSQL.sql	SQL queries used to perform the analysis
+
+## 📊 Business Questions Solved
+
+Using SQL queries, the following business insights were derived:
+1️⃣ Retrieve all books in the "Fiction" genre.
+
+2️⃣ Find books published after the year 1950.
+
+3️⃣ List all customers from Canada.
+
+4️⃣ Show orders placed in November 2023.
+
+5️⃣ Retrieve the total stock of books available.
+
+6️⃣ Find the details of the most expensive book.
+
+7️⃣ Show all customers who ordered more than 1 quantity of a book.
+
+8️⃣ Retrieve all orders where the total amount exceeds $20.
+
+9️⃣ List all genres available in the Books table.
+
+10️⃣ Find the book with the lowest stock.
+
+11️⃣ Calculate the total revenue generated from all orders.
+
+12️⃣ Retrieve the total number of books sold for each genre.
+
+13️⃣ Find the average price of books in the "Fantasy" genre.
+
+14️⃣ List customers who have placed at least 2 orders.
+
+15️⃣ Find the most frequently ordered book.
+
+16️⃣ Show the top 3 most expensive books in the 'Fantasy' genre.
+
+17️⃣ Retrieve the total quantity of books sold by each author.
+
+18️⃣ List the cities where customers who spent over $30 are located.
+
+19️⃣ Find the customer who spent the most on orders.
+
+20️⃣ Calculate the stock remaining after fulfilling all orders.
+
+## 📈 Key Insights
+
+Some insights derived from the analysis include:
+
+Identification of top-selling books
+
+Understanding customer buying behavior
+
+Detection of high revenue categories
+
+Finding most valuable customers
+
+Analyzing sales trends over time
