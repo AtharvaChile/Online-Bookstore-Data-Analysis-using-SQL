@@ -9,15 +9,15 @@ The project demonstrates practical use of SQL for real-world data analysis, incl
 
 The project consists of the following datasets:
 
-File Name	                  Description
 
-Books.csv                  	Contains information about books such as title, author, price, and category
 
-Customers.csv	              Contains customer details
+Books.csv  :                	Contains information about books such as title, author, price, and category
 
-Orders.csv	                Contains order transactions and purchase details
+Customers.csv	  :            Contains customer details
 
-OnlineBookStoreSQL.sql	    SQL queries used to perform the analysis
+Orders.csv	     :           Contains order transactions and purchase details
+
+OnlineBookStoreSQL.sql:	    SQL queries used to perform the analysis
 
 ## 📊 Business Questions Solved
 
