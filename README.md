@@ -61,7 +61,7 @@ Using SQL queries, the following business insights were derived:
 
 ## 📈 Key Insights
 
-Some insights derived from the analysis include:
+#### Some insights derived from the analysis include:
 
 Identification of top-selling books
 
