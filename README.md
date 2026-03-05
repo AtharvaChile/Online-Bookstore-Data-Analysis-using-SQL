@@ -18,45 +18,46 @@ OnlineBookStoreSQL.sql	SQL queries used to perform the analysis
 ## 📊 Business Questions Solved
 
 Using SQL queries, the following business insights were derived:
-1️⃣ Retrieve all books in the "Fiction" genre.
 
-2️⃣ Find books published after the year 1950.
+1️. Retrieve all books in the "Fiction" genre.
 
-3️⃣ List all customers from Canada.
+2️. Find books published after the year 1950.
 
-4️⃣ Show orders placed in November 2023.
+3️. List all customers from Canada.
 
-5️⃣ Retrieve the total stock of books available.
+4️. Show orders placed in November 2023.
 
-6️⃣ Find the details of the most expensive book.
+5️. Retrieve the total stock of books available.
 
-7️⃣ Show all customers who ordered more than 1 quantity of a book.
+6️. Find the details of the most expensive book.
 
-8️⃣ Retrieve all orders where the total amount exceeds $20.
+7️. Show all customers who ordered more than 1 quantity of a book.
 
-9️⃣ List all genres available in the Books table.
+8️. Retrieve all orders where the total amount exceeds $20.
 
-10️⃣ Find the book with the lowest stock.
+9️. List all genres available in the Books table.
 
-11️⃣ Calculate the total revenue generated from all orders.
+10️. Find the book with the lowest stock.
 
-12️⃣ Retrieve the total number of books sold for each genre.
+11. Calculate the total revenue generated from all orders.
 
-13️⃣ Find the average price of books in the "Fantasy" genre.
+12. Retrieve the total number of books sold for each genre.
 
-14️⃣ List customers who have placed at least 2 orders.
+13. Find the average price of books in the "Fantasy" genre.
 
-15️⃣ Find the most frequently ordered book.
+14. List customers who have placed at least 2 orders.
 
-16️⃣ Show the top 3 most expensive books in the 'Fantasy' genre.
+15. Find the most frequently ordered book.
 
-17️⃣ Retrieve the total quantity of books sold by each author.
+16. Show the top 3 most expensive books in the 'Fantasy' genre.
 
-18️⃣ List the cities where customers who spent over $30 are located.
+17. Retrieve the total quantity of books sold by each author.
 
-19️⃣ Find the customer who spent the most on orders.
+18. List the cities where customers who spent over $30 are located.
 
-20️⃣ Calculate the stock remaining after fulfilling all orders.
+19. Find the customer who spent the most on orders.
+
+20. Calculate the stock remaining after fulfilling all orders.
 
 ## 📈 Key Insights
 
